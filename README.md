@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello, Renan here! 👋
+
+- 🎓 I'm a chemist at @UFPR.
+- 🌱 I’m currently learning Data Analysis and Data Science.
+- 💡 I'm an enthusiastic problem solver.
+- 🧠 My main interests are Statistics and Mathematics.
+
+📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/renanvettori/) or drop an email at renanvettori18@gmail.com(mailto:renanvettori18@gmail.com).
 
 <!--
 **renanvettori/renanvettori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
